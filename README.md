@@ -7,7 +7,7 @@ public class Evaluation {
     public static void main(String[] args) {
         System.out.println("Test Data:");
 
-        System.out.println((25.5 * 3.5 - 3.5 * 3.5) / (40.5 - 4.5));
+        System.out.println((32.5 * 4.5 - 56.5 * 56.5) / (54.5 - 2.5));
     }
 }
 ```
@@ -38,3 +38,5 @@ Terminal oder `Java-IDE` wie IntelliJ IDEA oder VS Code
 * Verwendung von `double`-Werten direkt in Berechnungen
 
 Diese Übung basiert auf Aufgaben von [w3resource](https://www.w3resource.com/java-exercises/basic/index.php)  
+
+Die Lösungen wurden selbstständig von mir entwickelt und sind nur für Lernzwecke gedacht. 
