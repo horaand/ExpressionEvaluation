@@ -38,5 +38,3 @@ Terminal oder `Java-IDE` wie IntelliJ IDEA oder VS Code
 * Verwendung von `double`-Werten direkt in Berechnungen
 
 Diese Übung basiert auf Aufgaben von [w3resource](https://www.w3resource.com/java-exercises/basic/index.php)  
-
-Die Lösungen wurden selbstständig von mir entwickelt und sind nur für Lernzwecke gedacht.
